@@ -9,3 +9,4 @@ Ext.define('NYU-MVC.view.Blog',{
 		itemTpl: '{title}'
 		
 	}
+});

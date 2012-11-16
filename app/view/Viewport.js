@@ -5,8 +5,9 @@ Ext.define('NYU-MVC.view.Viewport', {
 			fullscreen : true,
 			tabBarPosition: 'bottom',
 			items: [
+
 				{
-					xtype: 'homepanel'
+					xtype: 'observationList'
 				},
 				{
 					xtype: 'productspage'
